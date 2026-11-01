@@ -26,24 +26,20 @@ What are the characteristics of repeat customers?
 Which age groups contribute the most revenue?
 
 # Technology Stack
-Technology	Purpose
-Python	Data Cleaning & Transformation
-Jupyter Notebook	Data Processing Environment
-Pandas	Data Manipulation
-PostgreSQL	Exploratory Data Analysis
-SQL	Business Query Analysis
+Python	Data Cleaning & Transformation,
+Jupyter Notebook	Data Processing Environment,
+Pandas	Data Manipulation,
+PostgreSQL	Exploratory Data Analysis,
+SQL	Business Query Analysis,
 Power BI	Dashboard Development & Visualization
 
 # Data Preparation
 The raw dataset was processed in Jupyter Notebook using Python to ensure analytical accuracy and consistency.
 
-Data Cleaning Activities
-Data quality assessment
-Missing value handling
-Duplicate record verification
-Data type conversion
-Feature engineering
-Data validation checks
+Data Cleaning Activities,
+Data quality assessment,
+Missing value handling,
+Data validation checks,
 Preparation of analysis-ready dataset
 
 # SQL Business Analysis
@@ -70,9 +66,9 @@ Measured the percentage of purchases completed with discounts applied across pro
 7. Customer Segmentation Analysis
 Classified customers into:
 
-New Customers
-Returning Customers
-Loyal Customers
+New Customers,
+Returning Customers,
+Loyal Customers,
 based on previous purchase history.
 
 8. Product Popularity Analysis
@@ -90,11 +86,11 @@ The cleaned and analyzed dataset was loaded into Power BI to create an interacti
 
 Dashboard Features
 
-KPI Cards
-Metric	Value
-Total Customers	3.9K
-Total Revenue	$233K
-Average Purchase Amount	$59.76
+KPI Cards,
+Metric	Value,
+Total Customers	3.9K |
+Total Revenue	$233K |
+Average Purchase Amount	$59.76 |
 Average Review Rating	3.75
 # Interactive Filters
 Dashboard users can dynamically filter insights using:
@@ -148,43 +144,43 @@ Observation
 Revenue is well distributed across multiple products, indicating diversified customer demand.
 
 # Key Business Insights
-Revenue Concentration
-Clothing dominates category revenue and represents the strongest business segment.
+1.Revenue Concentration
+Clothing dominates category revenue and represents the strongest business segment. 
 
-Customer Demographics
+2.Customer Demographics
 Male customers generate the largest share of sales, suggesting stronger purchasing activity within this segment.
 
-Subscription Opportunity
+3.Subscription Opportunity
 A significant percentage of customers are non-subscribers, indicating potential opportunities for customer retention programs and membership-based incentives.
 
-Age-Based Purchasing Trends
+4.Age-Based Purchasing Trends
 Young Adult customers generate the highest revenue and represent a key target audience for future marketing initiatives.
 
-Product Performance
+5.Product Performance
 Several products maintain similar revenue contributions, reflecting balanced demand across the product portfolio.
 
-Customer Retention
+6.Customer Retention
 Segmentation analysis enables businesses to distinguish New, Returning, and Loyal customers, supporting personalized engagement strategies.
 
 # Business Recommendations
-Increase Subscription Adoption
+1.Increase Subscription Adoption:
 Develop loyalty programs and exclusive offers targeted at non-subscribers to improve retention and recurring revenue.
 
-Focus on High-Performing Categories
+2.Focus on High-Performing Categories:
 Allocate marketing resources toward Clothing and Accessories, which contribute the highest revenue.
 
-Target Young Adult Customers
+3.Target Young Adult Customers:
 Design promotional campaigns tailored toward the highest revenue-generating age segment.
 
-Leverage Customer Segmentation
-Create differentiated marketing strategies for:
+4.Leverage Customer Segmentation:
+Create differentiated marketing strategies for: -
 
-New Customers
-Returning Customers
-Loyal Customers
+New Customers,
+Returning Customers,
+Loyal Customers,
 to maximize customer lifetime value.
 
-Optimize Promotional Strategies
+5.Optimize Promotional Strategies:
 Analyze high-performing discounted products and implement targeted discount campaigns rather than blanket promotions.
 
 # Repository Structure
