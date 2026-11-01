@@ -230,7 +230,7 @@ Skills: Python, SQL, PostgreSQL, Power BI, Excel, Data Analytics
 
 
 # Data Source
-Dataset: [https://www.youtube.com/@C_Wexllent](url) (Shakthi Sharma) via SkillCourse.
+Dataset: https://www.youtube.com/@C_Wexllent (Shakthi Sharma) via SkillCourse.
 
 
 
