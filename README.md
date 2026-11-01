@@ -99,10 +99,10 @@ Average Review Rating	3.75
 # Interactive Filters
 Dashboard users can dynamically filter insights using:
 
-Subscription Status
-Gender
-Product Category
-Shipping Mode
+Subscription Status,
+Gender,
+Product Category,
+Shipping Mode,
 Payment Method
 # Dashboard Insights
 Customer Distribution by Subscription Status
@@ -133,7 +133,7 @@ Senior	$56K
 Observation
 Young Adult customers represent the strongest revenue-generating age segment.
 
-Top Revenue-Generating Products
+# Top Revenue-Generating Products
 Blouse
 Shirt
 Dress
